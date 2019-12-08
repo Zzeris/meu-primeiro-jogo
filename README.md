@@ -1,2 +1,3 @@
 # meu-primeiro-jogo
-Um jogo simples utilizando NodeJS e Socket.io.
+
+Um jogo simples utilizando JavaScript + Node.js + Socket.io.
